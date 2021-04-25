@@ -6,4 +6,4 @@
 
 -Email nộp có tiêu đề: ML-Lab04 (sinh viên nộp sai tiêu đề rất khó tìm ra).
 
--Deadline: 23g59 thứ 7 ngày 1/05/2021. Nộp trễ bị chia đôi số điểm.
+-Deadline: 23g59 thứ 7 ngày 8/05/2021. Nộp trễ bị chia đôi số điểm.
