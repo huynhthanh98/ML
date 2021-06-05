@@ -1,6 +1,6 @@
 *Nộp Bài
 
--Code và chạy kết quả lưu vào file notebook NMMH_TH5_MSSV.ipynb (notebook phải có kết quả chạy nếu ko xem như chưa làm)
+-Code và chạy kết quả lưu vào file notebook NMMH_TH6_MSSV.ipynb (notebook phải có kết quả chạy nếu ko xem như chưa làm)
 
 -Nén thành file NMMH_TH6_MSSV.rar (.zip) và nộp về: huynhthanh98vn@gmail.com
 
