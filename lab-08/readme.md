@@ -6,4 +6,4 @@
 
 -Email nộp có tiêu đề: ML-Lab08 (sinh viên nộp sai tiêu đề rất khó tìm ra).
 
--Deadline: 23g59 ngày 19/06/2021
+-Deadline: 23g59 ngày 26/06/2021
