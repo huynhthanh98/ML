@@ -6,4 +6,4 @@
 
 -Email nộp có tiêu đề: NMMH_TH7_MSSV (sinh viên nộp sai tiêu đề rất khó tìm ra).
 
--Deadline: 23g59 ngày 11/07/2022
+-Deadline: 23g59 ngày 11/06/2022
